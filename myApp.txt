@@ -3,3 +3,5 @@ voting App
 mane manegment system
 pos manager
 loan manager
+Shool management system
+
